@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Library of Alexandria</string>
+    <string name="title">Title: </string>
+    <string name="ISBN">ISBN: </string>
+    <string name="author">Author: </string>
+    <string name="publisher">Publisher: </string>
+    <string name="edition">Edition: </string>
+    <string name="yearOfPublication">Year of Publication: </string>
+    <string name="genre">Genre: </string>
+    <string name="description">Description: </string>
+</resources>
